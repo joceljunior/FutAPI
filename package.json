@@ -1,7 +1,7 @@
 {
-  "name": "kasballet",
+  "name": "futapi",
   "version": "1.0.0",
-  "description": "Portal do aluno",
+  "description": "API sobre os principais clubes de futebol do brasil.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
